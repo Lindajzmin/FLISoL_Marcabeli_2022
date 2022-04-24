@@ -53,6 +53,7 @@ background-position: -150% 0%
 ### `r rmarkdown::metadata$author`
 ### `r rmarkdown::metadata$date`
 
+[`r fontawesome::fa("github")` bit.ly/FLISoL_Marcabeli_2022](https://github.com/Lindajzmin/FLISoL_Marcabeli_2022)
 
 ---
 
